@@ -5,3 +5,4 @@ def multiple(m):
 
 
 multiple(int(input("chislo raz")))
+multiple(4)
