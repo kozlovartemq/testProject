@@ -1,7 +1,4 @@
-def multiple(m):
-    while m>0:
-        print("hello, world!")
-        m-=1
-
-
-multiple(int(input("chislo raz")))
+m = int(input("chislo raz"))
+while m>0:
+    print("hello, world!")
+    m-=1
