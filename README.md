@@ -1,2 +1,2 @@
 # testProject
-created to help to understand, how gitgub works.
+Created to help to understand, how GitHub works.
